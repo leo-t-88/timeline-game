@@ -1,0 +1,80 @@
+Invention du premier ordinateur mécanique par Charles Babbage:1837
+Invention du télégraphe par Samuel Morse:1844
+Première communication téléphonique entre Alexander Graham Bell et son assistant:1876
+Invention du moteur à combustion interne par Nikolaus Otto:1876
+Première utilisation du téléphone portable par Martin Cooper:1973
+Lancement de la première souris informatique par Douglas Engelbart:1968
+Création d'Internet par ARPANET:1969
+Invention du premier ordinateur personnel (Apple I):1976
+Lancement de l'Apple II, premier ordinateur personnel à succès commercial:1977
+Lancement de l'IBM PC:1981
+Création de Microsoft par Bill Gates et Paul Allen:1975
+Lancement du premier système d'exploitation Windows:1985
+Invention du World Wide Web par Tim Berners-Lee:1989
+Lancement de Netscape Navigator, premier navigateur web populaire:1994
+Création de Google par Larry Page et Sergey Brin:1998
+Lancement de l’iPod par Apple:2001
+Invention de l'iPhone par Apple:2007
+Première version de Facebook lancée par Mark Zuckerberg:2004
+Lancement de Wikipedia:2001
+Naissance de l’open-source avec le projet GNU:1983
+Création de l'algorithme de recherche de Google:1996
+Lancement de Windows XP:2001
+Création d'Android par Andy Rubin:2003
+Lancement de l’iPad par Apple:2010
+Lancement du premier téléphone avec un écran tactile capacitif (iPhone):2007
+Début du développement du cloud computing avec Amazon Web Services:2006
+Lancement de Twitter:2006
+Lancement de YouTube:2005
+Début de l’utilisation du Bitcoin:2009
+Lancement du Google Play Store:2008
+Création du premier moteur de recherche AltaVista:1995
+Naissance de l'intelligence artificielle moderne avec l'algorithme AlphaGo de DeepMind:2016
+Création de la première imprimante 3D fonctionnelle:1983
+Première vidéo en 4K publiée sur YouTube:2010
+Premiers tests de Google Glass:2013
+Lancement de Tesla Model S:2012
+Invention du premier réseau sans fil Wi-Fi:1997
+Lancement de la plateforme de streaming Netflix:2007
+Création d'Amazon, premier géant de l’e-commerce:1994
+Lancement de la première version de Skype:2003
+Développement de l'algorithme de machine learning TensorFlow par Google:2015
+Invention du transistor par John Bardeen, Walter Brattain et William Shockley:1947
+Première vidéo en HD sur YouTube:2009
+Lancement de l’iPad Pro par Apple:2015
+Première montre connectée Apple Watch lancée par Apple:2015
+Première version de Google Chrome lancée:2008
+Développement du Deep Learning pour la reconnaissance vocale:2006
+Création de la première voiture entièrement autonome:2010
+Lancement de la console de jeux PlayStation:1994
+Premiers tests de réalité virtuelle par Oculus Rift:2012
+Création du premier moteur de recherche pour images:2000
+Première génération de Google Maps lancée:2005
+Lancement du premier iPod Nano:2005
+Création de l’outil de collaboration Google Docs:2006
+Lancement du premier Kindle par Amazon:2007
+Naissance du Wi-Fi 6:2019
+Création du premier chatbot par ELIZA:1966
+Premiers tests de drones commerciaux:2010
+Création du projet de voiture autonome par Google (Waymo):2009
+Naissance du premier smartphone avec écran pliable:2019
+Lancement de Zoom Video Communications:2011
+Création de l’assistant vocal Alexa par Amazon:2014
+Développement de l'intelligence artificielle Watson par IBM:2011
+Lancement de l’Apple MacBook Air, premier ordinateur ultra-fin:2008
+Développement du premier système d'exploitation open-source Linux:1991
+Premiers tests de la voiture autonome par Waymo:2017
+Naissance de la téléphonie mobile 3G:2001
+Naissance de la technologie de l'écran OLED:2000
+Lancement du service Google Drive pour le stockage dans le cloud:2012
+Création de l'Apple Watch, première montre connectée d’Apple:2015
+Lancement de la première voiture Tesla Model S:2012
+Lancement d’Instagram:2010
+Création de la première vidéo en 360° sur YouTube:2015
+Création du premier smartphone 5G par Samsung:2019
+Lancement du premier modèle de Google Pixel:2016
+Premier lancement d’une mission spatiale vers Mars (Curiosity):2012
+Première version du système d’exploitation iOS:2007
+Naissance du système de paiement mobile Apple Pay:2014
+Début de la réalité augmentée sur les smartphones avec Pokemon Go:2016
+Création des premiers robots à intelligence artificielle capables de jouer aux échecs:1997

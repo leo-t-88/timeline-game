@@ -1,0 +1,162 @@
+L'apparition de la ceramique:-9000
+L'invention de l'ecriture:-3400
+La construction des pyramides de Gizeh:-2560
+La fondation du theoreme de Pythagore:-548
+La fondation de Rome:-753
+La creation de la democratie Athenienne:-507
+La naissance de Bouddha:-563
+La naissance de Confucius:-551
+La construction de la Grande Muraille de Chine:-221
+L'invention du papier:-200
+La naissance de Jesus-Christ:0
+La chute de l'Empire romain d'Occident:476
+L'invention de l'imprimerie par Gutenberg:1440
+La decouverte de l'Amerique par Christophe Colomb:1492
+L'invention du telescope:1608
+La publication des Principes de Newton:1687
+La revolution francaise:1789
+L'invention du morse:1838
+La revolution industrielle:1850
+L'invention du telephone:1876
+La decouverte de l'electricite industrielle:1880
+L'invention de l'avion:1903
+L'invention de la television:1927
+La premiere bombe atomique:1945
+L'arrivee sur la Lune:1969
+La naissance d'Internet:1969
+L'invention du premier ordinateur personnel:1973
+La naissance du World Wide Web:1989
+L'invention du smartphone:2007
+La decouverte de l'intelligence artificielle moderne:2012
+L'ere de l'exploration martienne:2020
+L'invention de l'ecriture cuneiforme:-3200
+La fondation de Babylone:-2300
+La redaction de l'epopee de Gilgamesh:-2100
+La construction du Machu Picchu:1450
+La mort de Jules Cesar:-44
+La construction du Colisee de Rome:70
+L'ere des vikings:800
+La redaction de la Bible:400
+La creation de la soie en Chine:-3500
+La redaction du Coran:632
+La decouverte des mathematiques par les arabes:820
+La naissance du systeme heliocentrique:1543
+La decouverte de la penicilline:1928
+L'invention du cinema:1895
+L'abolition de l'esclavage aux USA:1865
+La signature de la Declaration des Droits de l'Homme:1789
+La decouverte de la greffe d'organes:1954
+L'invention de la machine a vapeur:1712
+La revolution numerique:1980
+La chute de Constantinople:1453
+L'invention des lunettes:1286
+L'apparition des premiers livres en papier:1000
+La creation de l'universite de Paris:1150
+La premiere machine a calculer de Pascal:1642
+La publication de "L'origine des especes" de Darwin:1859
+L'ere des grands decouverts maritimes:1400
+La construction de Notre-Dame de Paris:1163
+La naissance de Shakespeare:1564
+La premiere projection cinematographique:1895
+La premiere operation a coeur ouvert:1893
+La naissance de la Grece antique:-800
+L'invention du sablier:1338
+La premiere expedition humaine en Antarctique:1911
+La redaction de la Magna Carta:1215
+La creation du premier microscope:1590
+L'apparition des premieres horloges mecaniques:1300
+La mise en circulation de l'euro:2002
+La declaration d'independance des USA:1776
+La prise de Constantinople:1453
+La fin de la seconde guerre mondiale:1945
+La fin de la premiere guerre mondiale:1918
+L'ouverture du Canal de Panama:1914
+La premiere voiture a moteur:1885
+L'invention de l'ecriture alphabetique:-1200
+L'invention du compas:206
+L'invention du beton par les romains:-100
+La publication du premier journal imprime:1605
+La naissance de Napoleon Bonaparte:1769
+La construction du Taj Mahal:1643
+L'invention de la boussole:1100
+L'invention de l'imprimerie en Chine:1040
+La redaction de la Declaration universelle des Droits de l'Homme:1948
+La construction du Parthenon:-447
+La decouverte des planètes du systeme solaire:1600
+L'invention des premiers systemes d'irrigation:-3100
+La creation du calendrier egyptien:-2700
+La creation du premier code juridique par Hammurabi:-1754
+L'invention de la chirurgie:3000
+La decouverte des cellules:1665
+L'apparition des premiers calendriers lunaires:-3200
+L'invention de l'ecriture phonétique:1000
+La publication de "Candide" par Voltaire:1759
+La naissance de Socrate:-469
+La mort de Cleopatre:-30
+La redaction de la Constitution americaine:1787
+La decouverte des Ameriques par les vikings:1000
+La premiere construction de pont suspendu:1800
+L'invention de l'astronomie moderne:1609
+La decouverte du feu par l'homme prehistorique:-400000
+L'apparition de l'agriculture:-10000
+La premiere democratie moderne:1600
+La premiere encyclopedie:1751
+L'invention de la pile electrique:1800
+La premiere photographie:1826
+L'apparition de la poesie epique en Grece antique:-800
+La redaction de l'Iliade et l'Odysee:-700
+La signature du traite de Versailles:1919
+La premiere vaccination contre la variole:1796
+La chute de l'empire byzantin:1453
+L'invention des systemes d'aqueducs romains:-312
+La naissance de l'alphabet latin:-700
+L'arrivee des premiers humains en Amerique:-15000
+La construction de l'acropole d'Athenes:-450
+La decouverte des Ameriques par Magellan:1519
+L'invention de la peinture rupestre:-30000
+La publication du Discours de la Methode de Descartes:1637
+L'invention du tournebroche mecanique:1450
+La naissance de l'art gothique:1137
+L'invention de l'elevage de moutons:-9000
+L'arrivee des Huns en Europe:370
+La fondation de Carthage:-814
+L'invention des premiers bateaux en bois:-6000
+L'apparition des premieres sculptures humaines:-25000
+La redaction du code Napoleon:1804
+L'apparition du premier calendrier solaire en Egypte:-4200
+L'invention du thermometre:1593
+La revolution agricole:1700
+La naissance de Platon:-428
+L'ere des croisades:1096
+La publication de l'Encyclopedie de Diderot:1751
+La naissance de l'archeologie moderne:1800
+L'invention du phonographe:1877
+La decouverte de l'acier en Inde:-300
+L'ere de la Renaissance:1400
+La fondation de l'empire Ottoman:1299
+La chute de l'empire Ottoman:1923
+L'invention de la presse hydraulique:1795
+La premiere expédition vers le pole Nord:1909
+L'invention de la batterie:1800
+La publication de la Relativité par Einstein:1905
+La naissance de l'art impressionniste:1872
+La decouverte de l'ADN:1953
+La premiere transplantation cardiaque:1967
+La fin de la guerre froide:1991
+La fondation des Nations Unies:1945
+L'invention de l'ordinateur moderne:1936
+L'invention de la fibre optique:1966
+L'apparition des premiers robots industriels:1961
+La mise en orbite du premier satellite (Spoutnik):1957
+L'invention du premier jeu video:1958
+L'apparition des premieres villes fortifiees:-8000
+La creation du code Morse:1837
+L'invention de la radio par Marconi:1895
+La naissance de la machine a laver:1851
+L'apparition de l'eclairage public a gaz:1807
+L'invention du moteur Diesel:1893
+La creation du premier calendrier romain:-753
+La premiere greffe de visage:2005
+La premiere video YouTube mise en ligne:2005
+L'apparition des reseaux sociaux modernes:2004
+La decouverte des ondes gravitationnelles:2015
