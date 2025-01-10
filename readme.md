@@ -5,4 +5,4 @@
 
 ``Note :``
 - The code was developed with Java 21, so I don't know if it will work with later versions.
-- The code/javadoc comments and the game interface are in French.``
+- The code/javadoc comments and the game interface are in French.
